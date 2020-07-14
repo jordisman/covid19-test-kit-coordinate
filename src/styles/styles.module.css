@@ -98,3 +98,34 @@ p {
   color: white;
   background-color: #4940c9;
 }
+
+
+/* ==========================================
+   ==============  Sign Up Form  ============
+   ========================================== */
+
+
+input {
+  width: 70%;
+  padding: 10px 20px;
+  margin: 20px 0;
+  display: inline-block;
+  border: 1.5px solid #4940c9;
+  box-sizing: border-box;
+  margin-top: 8px;
+  border-radius: 8px;
+  box-shadow: 2px 2px 3px 1px rgb(192, 192, 192);
+}
+
+label {
+  float: left;
+  text-align: left;
+  width: 450px;
+  font-size: 11px;
+  color: #656D78;
+  margin-left: 4px;
+}
+
+.formContainer {
+  margin: 60px 0 0 90px;
+}
